@@ -1,4 +1,6 @@
-# Analysis Cysteines
+# Analysis of Cysteines
+
+## Finding Neighbors in the PDB
 
 Analysis of the changing enviroment of cysteines according to their oxidation state.
 
