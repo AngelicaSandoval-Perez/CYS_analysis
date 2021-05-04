@@ -11,3 +11,4 @@ The analysis of neighbors contains the  following jupyther notebooks:
 - [JPN3: Plotting the results as networks](https://github.com/AngelicaSandoval-Perez/CYS_analysis/blob/main/Jupyther_notebooks/Plotting_SGneighbors_asNetworks.ipynb)
 
 Examples of input files and output files are found in the [folder of examples](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/examples_inputfiles)
+The final Summary of data is found in [ folder of excel files](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/summaryFiles_xlsx)
