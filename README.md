@@ -22,6 +22,6 @@ Calculating of SASA (Solvent Accesible Surface Area) according to the oxidation 
 
 The analysis can be found in the following notebook:
 
--[JPN4: SASA calculation](https://github.com/AngelicaSandoval-Perez/CYS_analysis/blob/main/Jupyther_notebooks/SASA_examples.ipynb)
+- [JPN4: SASA calculation](https://github.com/AngelicaSandoval-Perez/CYS_analysis/blob/main/Jupyther_notebooks/SASA_examples.ipynb)
 
 And the final summary in the excel file named SASA_summary in the [folder of excel files](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/summaryFiles_xlsx)
