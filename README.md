@@ -15,3 +15,12 @@ The analysis of neighbors contains the  following jupyther notebooks:
 Examples of input files and output files are found in the [folder of examples](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/examples_inputfiles)
 
 The final summary of data is found in the [folder of excel files](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/summaryFiles_xlsx)
+
+## SASA calculation 
+
+Calculating of SASA (Solvent Accesible Surface Area) according to the oxidation state of the cysteines. 
+
+The analysis can be found in the following notebook:
+-[]
+
+And the final summary in the excel file  [folder of excel files](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/summaryFiles_xlsx)
