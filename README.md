@@ -24,4 +24,5 @@ The analysis can be found in the following notebook:
 
 - [JPN4: SASA calculation](https://github.com/AngelicaSandoval-Perez/CYS_analysis/blob/main/Jupyther_notebooks/SASA_examples.ipynb)
 
-#And the final summary in the excel file named SASA_summary in the [folder of excel files](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/summaryFiles_xlsx)
+And the final summary of SASA values are in the files named CYS_SASA_relative.txt in the [folder of examples](https://github.com/AngelicaSandoval-Perez/CYS_analysis/tree/main/examples_inputfiles)
+
